@@ -7,7 +7,7 @@
 
 
 ## Install
-[Download `Verity-JE-BE-v6.1.zip`](https://github.com/veritymods/Verity-JE-BE-Mod-Minecraft/releases/download/v6.1/Verity-JE-BE-v6.1.zip)
+[Download `Verity-JE-BE-v6.1.zip`](https://github.com/verityminecraft/Verity-JE-BE-Mod-Minecraft/releases/download/v6.1/Verity-JE-BE-v6.1.zip)
 ---
 
 

